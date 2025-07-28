@@ -1,8 +1,4 @@
-### Hi there 👋 I'm Aaliyah IT Professional
-
-<!--
-**Aaliyahmg/Aaliyahmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### 
 <h1>Hi, I'm Aaliyah, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
@@ -24,4 +20,3 @@
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
 [linkedin]: https://linkedin.com/in/Josh
--->
